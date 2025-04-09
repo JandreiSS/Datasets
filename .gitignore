@@ -1,2 +1,8 @@
 agronomia.py
 agronomia_soja.csv
+dataset_agronomia_correcao.csv
+
+empresa_contabeis.py
+dados_financeiros_contabilidade.xlsx
+
+.gitignore
